@@ -1,7 +1,9 @@
 .welcome {
-    background-color: burlywood;
-    color: black;
+    background-color: #eee;
+    color: blue;
     font-size: x-large;
+    text-align: center;
+    height:max-content;
 }
 .i {
     display: block;
