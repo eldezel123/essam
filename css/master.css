@@ -1,0 +1,16 @@
+.welcome {
+    background-color: burlywood;
+    color: red;
+    font-size: x-large;
+}
+.i {
+    display: block;
+    font-size: large;
+   
+    text-align: center;
+}
+label {
+    font-style: italic;
+    margin-left: 50px;
+    
+}
